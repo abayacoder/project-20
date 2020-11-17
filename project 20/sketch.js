@@ -5,7 +5,7 @@ var speed;
 var weight;
 
 function setup() {
-  createCanvas(800,400);
+  createCanvas(1600,400);
 
   speed=random(55,90);
   weight=random(400,1500);
@@ -31,7 +31,7 @@ if(deformation>180)
 }
 if(deformation<180 && deformation>100)
 {
-  car.shapeColor=color(color(230,230,0)
+  car.shapeColor=color(230,230,0)
 
 if(deformation<100)
 {
